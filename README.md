@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello!  
+
+I'm currently learning about product development, Agile, Python, etc.
+Working on a GitHub certification as a foundation to effective software project management.
+If you're interested in reaching out to me check out my LinkedIn page.
+
+-Shane
 
 <!--
 **ShaneTAdams/ShaneTAdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
